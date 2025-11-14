@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Nibhi16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nibhi16/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nibhi16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
