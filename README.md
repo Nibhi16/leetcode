@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Nibhi16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
@@ -93,15 +94,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Nibhi16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Nibhi16/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nibhi16/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nibhi16/leetcode/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nibhi16/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
