@@ -13,16 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nibhi16/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Nibhi16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
