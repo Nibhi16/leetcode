@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Nibhi16/leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/Nibhi16/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Math
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -97,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nibhi16/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0218-the-skyline-problem](https://github.com/Nibhi16/leetcode/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
 | ------- |
