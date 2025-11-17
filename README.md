@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Nibhi16/leetcode/tree/master/0274-h-index) |
 | [0393-utf-8-validation](https://github.com/Nibhi16/leetcode/tree/master/0393-utf-8-validation) |
+| [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Math
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Nibhi16/leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
+| [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 ## Backtracking
 |  |
 | ------- |
