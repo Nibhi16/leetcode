@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nibhi16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
+| [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Math
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nibhi16/leetcode/tree/master/0274-h-index) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nibhi16/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
