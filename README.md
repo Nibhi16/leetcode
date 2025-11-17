@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nibhi16/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Nibhi16/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nibhi16/leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/Nibhi16/leetcode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/Nibhi16/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Nibhi16/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nibhi16/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Nibhi16/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nibhi16/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
