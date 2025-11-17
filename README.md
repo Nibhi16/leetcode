@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0504-base-7](https://github.com/Nibhi16/leetcode/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/Nibhi16/leetcode/tree/master/0514-freedom-trail) |
+| [0520-detect-capital](https://github.com/Nibhi16/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
