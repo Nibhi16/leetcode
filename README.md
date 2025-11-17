@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Nibhi16/leetcode/tree/master/0290-word-pattern) |
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0460-lfu-cache](https://github.com/Nibhi16/leetcode/tree/master/0460-lfu-cache) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -231,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
