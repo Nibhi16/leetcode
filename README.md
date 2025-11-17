@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/Nibhi16/leetcode/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
 ## Math
@@ -199,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Nibhi16/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/Nibhi16/leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nibhi16/leetcode/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/Nibhi16/leetcode/tree/master/0506-relative-ranks) |
 ## Ordered Set
 |  |
 | ------- |
