@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nibhi16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Nibhi16/leetcode/tree/master/0189-rotate-array) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Nibhi16/leetcode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Nibhi16/leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/Nibhi16/leetcode/tree/master/0229-majority-element-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nibhi16/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Nibhi16/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nibhi16/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Nibhi16/leetcode/tree/master/0233-number-of-digit-one) |
