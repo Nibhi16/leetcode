@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Nibhi16/leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Nibhi16/leetcode/tree/master/0290-word-pattern) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nibhi16/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0504-base-7](https://github.com/Nibhi16/leetcode/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/Nibhi16/leetcode/tree/master/0514-freedom-trail) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Nibhi16/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Nibhi16/leetcode/tree/master/0273-integer-to-english-words) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nibhi16/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Nibhi16/leetcode/tree/master/0504-base-7) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/Nibhi16/leetcode/tree/master/0393-utf-8-validation) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Nibhi16/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Tree
 |  |
 | ------- |
