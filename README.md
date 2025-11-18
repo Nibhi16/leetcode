@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Nibhi16/leetcode/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Nibhi16/leetcode/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Nibhi16/leetcode/tree/master/0504-base-7) |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Nibhi16/leetcode/tree/master/0506-relative-ranks) |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nibhi16/leetcode/tree/master/0258-add-digits) |
+## Randomized
+|  |
+| ------- |
+| [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
