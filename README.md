@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nibhi16/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nibhi16/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/Nibhi16/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nibhi16/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Nibhi16/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nibhi16/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Nibhi16/leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nibhi16/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Nibhi16/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Nibhi16/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Nibhi16/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
