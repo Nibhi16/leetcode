@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Nibhi16/leetcode/tree/master/0290-word-pattern) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0504-base-7](https://github.com/Nibhi16/leetcode/tree/master/0504-base-7) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Nibhi16/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Nibhi16/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nibhi16/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Nibhi16/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Nibhi16/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 | [0514-freedom-trail](https://github.com/Nibhi16/leetcode/tree/master/0514-freedom-trail) |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Nibhi16/leetcode/tree/master/0460-lfu-cache) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
