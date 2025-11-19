@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Nibhi16/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nibhi16/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Nibhi16/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nibhi16/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Nibhi16/leetcode/tree/master/0460-lfu-cache) |
 ## Array
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nibhi16/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 ## Binary Indexed Tree
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nibhi16/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Nibhi16/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/Nibhi16/leetcode/tree/master/0514-freedom-trail) |
