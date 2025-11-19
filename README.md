@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Nibhi16/leetcode/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nibhi16/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/Nibhi16/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/Nibhi16/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nibhi16/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Nibhi16/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Nibhi16/leetcode/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Nibhi16/leetcode/tree/master/0792-binary-search) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
 | [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Nibhi16/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0514-freedom-trail](https://github.com/Nibhi16/leetcode/tree/master/0514-freedom-trail) |
 ## Backtracking
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Nibhi16/leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Nibhi16/leetcode/tree/master/0330-patching-array) |
+| [0410-split-array-largest-sum](https://github.com/Nibhi16/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/Nibhi16/leetcode/tree/master/0894-random-pick-with-blacklist) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Nibhi16/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
