@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nibhi16/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nibhi16/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Nibhi16/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Nibhi16/leetcode/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Nibhi16/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Nibhi16/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Nibhi16/leetcode/tree/master/0290-word-pattern) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nibhi16/leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nibhi16/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Nibhi16/leetcode/tree/master/0460-lfu-cache) |
 ## Array
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nibhi16/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Nibhi16/leetcode/tree/master/0212-word-search-ii) |
 ## Binary Indexed Tree
 |  |
