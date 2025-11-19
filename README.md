@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nibhi16/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Nibhi16/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Nibhi16/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nibhi16/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nibhi16/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nibhi16/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nibhi16/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Nibhi16/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Nibhi16/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nibhi16/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nibhi16/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Nibhi16/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Nibhi16/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
