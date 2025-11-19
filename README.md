@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Nibhi16/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Nibhi16/leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Nibhi16/leetcode/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/Nibhi16/leetcode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Nibhi16/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nibhi16/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nibhi16/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Nibhi16/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nibhi16/leetcode/tree/master/0155-min-stack) |
