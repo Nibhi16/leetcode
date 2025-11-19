@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nibhi16/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nibhi16/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nibhi16/leetcode/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 | [0475-heaters](https://github.com/Nibhi16/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Nibhi16/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nibhi16/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nibhi16/leetcode/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nibhi16/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Nibhi16/leetcode/tree/master/0274-h-index) |
+| [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 | [0393-utf-8-validation](https://github.com/Nibhi16/leetcode/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nibhi16/leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/Nibhi16/leetcode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Nibhi16/leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
 ## Trie
 |  |
 | ------- |
