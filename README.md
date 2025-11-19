@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Nibhi16/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Nibhi16/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nibhi16/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Nibhi16/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nibhi16/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nibhi16/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Nibhi16/leetcode/tree/master/0189-rotate-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Nibhi16/leetcode/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
