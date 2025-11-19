@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Nibhi16/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Nibhi16/leetcode/tree/master/0274-h-index) |
 | [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Nibhi16/leetcode/tree/master/0330-patching-array) |
 | [0393-utf-8-validation](https://github.com/Nibhi16/leetcode/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/Nibhi16/leetcode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nibhi16/leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Nibhi16/leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Nibhi16/leetcode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Nibhi16/leetcode/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Nibhi16/leetcode/tree/master/0330-patching-array) |
 ## Trie
 |  |
 | ------- |
