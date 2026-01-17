@@ -11,36 +11,36 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode* slow= head;
-        ListNode* fast = head;
-        while ( fast->next && fast->next->next ){
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next && fast->next->next){
+            fast = fast->next->next;
             slow= slow->next;
-            fast= fast->next->next;
         }
-        //reverse list
-        ListNode* prev= NULL;
-        ListNode* curr= slow->next;
+
+        ListNode* prev = NULL;
+        ListNode* curr=slow->next;
+        slow->next=NULL;
         while(curr){
-            ListNode* nextTemp = curr->next;
-            curr->next= prev;
-            prev= curr;
-            curr=nextTemp;
+        ListNode* nextNode = curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=nextNode;
         }
-        slow->next= NULL;
-        //merge alternatively
-        ListNode* first= head;
-        ListNode* second=prev;
-        while(second){
-            ListNode* tmp1= first->next;
-            ListNode* tmp2=second->next;
+
+        ListNode* first =head;
+        ListNode* second =prev;
+        while(second){ 
+            ListNode* node1 = first->next;
+            ListNode* node2 = second->next;
 
             first->next=second;
-            second->next=tmp1;
+            second->next=node1;
 
-            first=tmp1;
-            second=tmp2;
-
+            first=node1;
+            second=node2;
         }
+
 
     }
 };
